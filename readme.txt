@@ -1,2 +1,3 @@
 I'm learning git.
-It's really confusing.
+I changed this line as a test.
+I added this line as a test.
